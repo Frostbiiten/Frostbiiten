@@ -1,9 +1,7 @@
-### Hi there! 👋
-
-- I'm **Edem**, a Canadian Senior passionate about **Computer Science**. 😄
-- 🌱 I’m currently learning **fullstack development**.
-- ⚡ I love working with **C++**, **Java**, **C#**, **Unity** and a _little_ **Python**.
-- Check out my [portfolio!](https://frostbiiten.github.io/mypage)💫
+### Hello :]
+- I'm **Edem**, a second-year CS Student at the University of Waterloo.
+- I’m currently learning **graphics programming**
+- Check out my [portfolio!](https://edem.ca)💫
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frostbiiten&show_icons=true&theme=merko&hide_rank=true)](https://github.com/frostbiiten/github-readme-stats)
 
